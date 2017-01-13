@@ -1,1 +1,1 @@
-# Snake
+# Snake with dynamic libraries
